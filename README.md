@@ -17,6 +17,6 @@ https://user-images.githubusercontent.com/73261827/148711603-5f078236-06ae-4400-
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
 
-https://user-images.githubusercontent.com/73261827/149643257-0cc54153-0906-48c7-9723-914fb1d66027.mp4
+
   
 <!--END_SECTION:activity-->
