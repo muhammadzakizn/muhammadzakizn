@@ -10,6 +10,7 @@ https://user-images.githubusercontent.com/73261827/148711603-5f078236-06ae-4400-
 <div align="center">
 <h3>Still learning, just copy-paste, it's a learning.</h3>
 <p1>I'm student at Dewantara Polytechnic</p1>
+<p1>Full-stack Developer, Design.</p1>
 </div>
 
   
