@@ -2,7 +2,7 @@
 
 https://user-images.githubusercontent.com/73261827/148711603-5f078236-06ae-4400-8d21-9e007baf0743.mp4
 
-<p align="center"><img src="" width="320" height="400"></p>
+<!-- <p align="center"><img src="" width="320" height="400"></p> --->
 
 <h3 align="center">Connect With Me :</h3>
 <p align="center"><a href="https://facebook.com/muhammadzakizn"><img src="https://img.icons8.com/color/48/000000/facebook.png"></a><align="center"><a href="https://instagram.com/muhammadzakizn"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a><align="center"><a href="https://twitter/muhammadzakizn"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a><align="center"><a href="https://www.youtube.com/channel/UCR3E7NBQM_AtThVoiHJhHZg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
