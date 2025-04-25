@@ -1,4 +1,6 @@
-## <h1 align="center">Hello there, Here Zack.. 👋</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <h1 align="center">Hello there, here Zack.. 👋</h1>
 
 https://user-images.githubusercontent.com/73261827/148711603-5f078236-06ae-4400-8d21-9e007baf0743.mp4
 
